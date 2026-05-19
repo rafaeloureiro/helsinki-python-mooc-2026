@@ -4,11 +4,11 @@ Este repositório contém as minhas soluções para os exercícios do curso **Py
 
 O objetivo deste projeto é registrar a minha evolução na programação com Python, consolidar os fundamentos da linguagem e praticar boas práticas de desenvolvimento e controle de versão com Git/GitHub.
 
-## 📌 Sobre o Curso
+## Sobre o Curso
 
 O MOOC da Universidade de Helsinki é um curso prático de introdução à programação e à engenharia de software utilizando Python. Ele aborda desde a lógica básica e estruturas de dados até conceitos avançados de Programação Orientada a Objetos (POO), manipulação de arquivos e algoritmos.
 
-## 🛠️ Tecnologias e Conceitos Praticados
+## Tecnologias e Conceitos Praticados
 
 - **Linguagem:** Python
 - **Estruturas de Dados:** Listas, Dicionários, Tuplas e Conjuntos (`sets`).
@@ -16,7 +16,7 @@ O MOOC da Universidade de Helsinki é um curso prático de introdução à progr
 - **Dicas de Tipo (*Type Hinting*):** Uso de tipagem estática opcional para maior clareza e segurança do código.
 - **Ferramentas:** VS Code, Git, GitHub e o plugin TMC (Test My Code) para testes automatizados.
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 O repositório está organizado por partes (semanas), seguindo a divisão oficial do material didático:
 
