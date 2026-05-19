@@ -2,4 +2,4 @@
 A program which prints out an emoticon: :-)
 """
 
-print(":-)")
+print(f":-)")
