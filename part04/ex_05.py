@@ -6,6 +6,7 @@ Copy your solution to that exercise prior the code for this exercise. Please don
 """
 
 def line(length, text):
+    
     if text == "":
         character = "*"
     else:
@@ -13,6 +14,7 @@ def line(length, text):
     print(f"{character * length}")
 
 def square(size, character):
+    
     rows = size
     while rows > 0:
         line(size, character)
