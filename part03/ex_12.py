@@ -1,5 +1,2 @@
-"""
-MODELO
-"""
-
-dd
+word = int(input("Width: "))
+print(f"{word*'#'}")
