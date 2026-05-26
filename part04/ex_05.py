@@ -5,16 +5,14 @@ The function should call the function line from the exercise prior for the actua
 Copy your solution to that exercise prior the code for this exercise. Please don't change anything in the line function.
 """
 
-def line(length, text):
-    
+def line(length, text):   
     if text == "":
         character = "*"
     else:
         character = text[0]
     print(f"{character * length}")
 
-def square(size, character):
-    
+def square(size, character):  
     rows = size
     while rows > 0:
         line(size, character)
