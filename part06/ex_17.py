@@ -3,6 +3,7 @@ A function named read_input, which asks the user for input until the user types 
 """
 
 def read_input(prompt: str, lower: int, upper: int):
+    
     while True:
         try:
             number = int(input(prompt))
