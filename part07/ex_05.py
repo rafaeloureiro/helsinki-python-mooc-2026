@@ -7,4 +7,3 @@ from string import ascii_lowercase
 
 def generate_password(n: int):
     return "".join(sorted(sample(ascii_lowercase, n)))
-  
