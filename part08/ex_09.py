@@ -1,5 +1,6 @@
 """
-
+A function named books_of_genre which takes a list of objects of type Book and a string representing a genre as its arguments.
+The function return a new list, which contains the books with the desired genre from the original list.
 """
 
 class Book:
