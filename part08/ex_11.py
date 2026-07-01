@@ -1,5 +1,7 @@
 """
+A class named Person with a single attribute name with two methods:
 
+The method return_first_name should return the first name of the person, while the method return_last_name should return the last name of the person.
 """
 
 class Person:
