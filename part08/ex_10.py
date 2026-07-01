@@ -1,5 +1,5 @@
 """
-
+Decreasing counter exercise.
 """
 
 class DecreasingCounter:
